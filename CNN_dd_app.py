@@ -267,8 +267,6 @@ run_btn = Button(window, text="Train/Test", command=run)
 
 run_btn.grid(column=2, row=11, pady=0)
 
-
-
 #txt5.insert(INSERT, 'Loading dataset and training....this will take a while....please wait a moment!\n')
 #txt5.insert(INSERT, 'Feel free to do other stuff and come back after a while...\n')
 
