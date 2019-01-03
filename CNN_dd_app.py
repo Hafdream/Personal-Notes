@@ -14,9 +14,7 @@ Author: Haftu @ Brique Inc.
 Year: 2018
 
 '''
-
 import logging
-
 
 window = tkinter.Tk()
 window.title("CNN based defect detection")
