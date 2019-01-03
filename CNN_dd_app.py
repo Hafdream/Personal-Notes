@@ -4,8 +4,6 @@ from tkinter.ttk import *
 import tkinter
 from tkinter.scrolledtext import ScrolledText
 import CNN_dd
-
-
 import sys
 sys.setrecursionlimit(10000)
 '''
